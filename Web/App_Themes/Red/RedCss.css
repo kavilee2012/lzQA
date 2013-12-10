@@ -1,0 +1,413 @@
+﻿
+/*基本信息*/
+body {width:100%;height:100%;font:12px Tahoma;margin:0px;text-align:center;background:#FFF;}
+a:link,a:visited {font-size:12px;text-decoration:none;}
+a:hover{}
+
+
+
+/*页面层容器*/
+#Main {width:100%;margin:5px auto}
+
+#M_Banner{width:100%; height:20px; font-size:5; text-align:left;  background-repeat:repeat; border-bottom:solid 1px #000;}
+
+/*页面头部*/
+#Header 
+{
+	top:0;
+	left:0;
+	position:absolute;
+	width:100%;
+	height:61px;
+	background:#FF3300;
+	z-index:2;
+	text-align:center; 
+	background-image:none|url(~/Image/mbg.gif);
+}
+
+/*页面主体*/
+#PageBody {width:100%; height:500px;background:#ffffff}
+
+/*页面底部width:100%;margin:0 auto;height:50px;background:#FF3300*/
+#Footer 	
+{
+	bottom:0;
+	left:0;
+	position:absolute;
+	width:100%;
+	height:30px;
+	background:#ddd;
+	z-index:2;
+}
+
+
+#B_Content
+{
+	left:0; 
+	top:90px; 
+	width:100%; 
+	position:absolute; 
+	bottom:30px; 
+	background:#fff; 
+	margin-top:3px;
+}
+
+#B_Left
+{
+	left:0;
+	top:0;
+	position:absolute;
+	height:100%;
+	overflow:auto;
+	background-color:#fff;
+	width:185px;
+	float:left; 
+}
+#B_Right
+{
+	left:188px;
+	top:0;
+	position:absolute;
+	height:100%;
+	overflow:auto;
+	width:85%;
+    background-color:#fff;
+	text-align:left; 
+	float:left;
+}
+
+#B_Right ul {list-style:none; margin:0px;}
+#B_Right ul li {width:100%; height:10px; text-align:left; margin-top:15px}
+
+#PageBody ul {list-style:none; margin:0px;}
+#PageBody ul li {width:100%; height:10px; text-align:left; margin-top:15px}
+
+
+#S_Title{float:left; width:100%; height:20px; font-size:18px; font-weight:bold; text-align:center; line-height:20px; margin-top:10px;}
+
+#SubMain {width:100%;  margin: 0 auto;height:400px;background:#ffffff}
+#Banner{float:left; width:100%; height:30px; background-color:Transparent;}
+#Banner_Search{float:left;}
+#Banner_Edit{float:right;}
+
+#Contant{float:left; width:100%; background-color:#fff;}
+
+#SubMain ul {list-style:none; margin:0px;}
+#SubMain ul li {width:100%; height:10px; text-align:left; margin-top:15px}
+
+
+#R_Top{ float:left; width:100%; background-color:#ccf; height:30px; text-align:left; font-weight:bold; font-size:11px;}
+#R_Body{ float:left; width:100%;}
+#R_Foot{ float:left; width:100%; background-color:#ccf; height:30px; text-align:right;}
+
+
+.GridFrame
+{
+    margin-top: 5px;
+    border-collapse: collapse;
+    border-right: #7c9ccf 1px solid;
+    border-top: #7c9ccf 1px solid;
+    border-left: #7c9ccf 1px solid;
+    border-bottom: #7c9ccf 1px solid;
+}
+.GridItem td ,.GridAlter td
+{
+    border-right: #999999 1px solid;
+    border-top: #999999 1px solid;
+    border-left: #999999 1px solid;
+    border-bottom: #999999 1px solid;
+}
+.GridItem
+{
+    font-family: arial;
+    font-size: 9pt;
+    background: #f1f1f1;
+    padding: 0px 4px 0px 4px;
+    height: 14px;
+}
+
+.GridEdit
+{
+    font-family: arial;
+    font-size: 9pt;
+    background: #ffffff;
+    padding: 0px 4px 0px 4px;
+    height: 14px;
+}
+
+.GridHeader
+{
+    font: bold ;
+    font-family: 宋体;
+    font-size: 9pt;
+    background: #8caae7;
+    border-bottom: #7c9ccf 1px solid;
+    border-top: #7c9ccf 1px solid;
+    color: #ffffff;
+    text-align:center;
+    height:18px;
+}
+.GridHeader th
+{
+    font: bold ;
+    font-family: 宋体;
+    font-size: 9pt;
+    background: #8caae7;
+    border-bottom: #7c9ccf 1px solid;
+    border-top: #7c9ccf 1px solid;
+    color: #ffffff;
+    text-align:center;
+}
+
+.GridAlter
+{
+    font-family: arial;
+    font-size: 9pt;
+    background: #f1f1f1;
+    padding: 0px 4px 0px 4px;
+    height: 14px;
+}
+
+
+    .anpager
+    {
+        font: 11px Arial, Helvetica, sans-serif;
+        padding:10px 20px 10px 0;
+        margin: 0px;
+    }
+    .anpager a
+    {
+        padding: 1px 6px;
+        border: solid 1px #ddd;
+        background: #fff;
+        text-decoration: none;
+        margin-right:2px
+    }
+    .anpager a:visited
+    {
+        padding: 1px 6px;
+        border: solid 1px #ddd;
+        background: #fff;
+        text-decoration: none;
+    }
+    .anpager .cpb
+    {
+        padding: 1px 6px;
+        font-weight: bold;
+        font-size: 13px;
+        border:none
+    }
+    .anpager a:hover
+    {
+        color: #fff;
+        background: #ffa501;
+        border-color:#ffa501;
+        text-decoration: none;
+    }
+
+
+
+
+/************************/
+/* 
+Create by FreezeSoul
+Blog:http://hi.baidu.com/freezesoul
+Time:2008-06-26
+ */
+/* table level rules */
+.grid
+{
+
+	font-size: 12px;
+	border: solid 1px #7f7f7f;
+    border-collapse:collapse;	
+    color: #333333;
+    width:100%
+}
+
+
+/* header column rules */
+.grid th 
+{
+    background: url(./img/sprite.png) repeat-x 0px 0px;
+    border-color: #989898 #cbcbcb #989898 #989898;
+    border-style: solid solid solid none;
+    border-width: 1px 1px 1px medium;
+    color: #000;
+    padding: 4px 5px 4px 10px;
+    vertical-align: bottom;
+    text-align:center;
+}  
+
+.grid th a
+{
+	color:#333333;
+    font-weight: bold;
+	text-decoration: none;
+	display: block;
+    padding-right: 10px;
+}
+
+/* data cell and data row rules */
+.grid td 
+{
+	color:#333333;
+    padding: 4px 10px 4px 10px;
+    border-bottom: solid 1px #BBD9EE;
+}
+/* reset footer link*/
+.grid .pager td 
+{
+	
+    padding: 4px 4px 4px 4px;
+    border:0px;
+}
+.grid .altrow
+{
+    background-color: #EBF4FA;
+} 
+
+.grid .row
+{
+    background-color: #fff;
+}  
+
+.grid .rownum
+{
+    text-align:center;
+    padding-left:0px;
+    font-weight:bold;
+    color:#333333;
+}
+
+
+.dialog
+{
+    font-size:14px;
+    color:#222222;
+    background-color:#fff;
+}    
+
+/* header styles */
+.dialog .header
+{
+    position:relative;
+    color:#fff;        
+    cursor:move; /* So the user knows they can drag the panel */
+}
+.dialog .header .outer
+{
+    background:url(./img/top-right.png) right no-repeat;
+    padding-right:40px;
+}
+.dialog .header .inner
+{
+    background:url(./img/top-left.png) left no-repeat;
+    padding-left:9px;
+}
+.dialog .header .content
+{
+    height:35px;
+    background:url(./img/top-mid.png) repeat-x;
+}
+.dialog .header .content H2
+{
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    padding-top:6px;
+    margin:0;
+}
+.dialog .header .close
+{
+    /* the image is 35x35 pixels wide */
+    height:25px;
+    width:35px;	
+    /* position the image */
+    position:absolute;	
+    top:4px;
+    right:7px;	
+    background:url(./img/close.png) no-repeat;	
+    cursor:pointer;
+}
+.dialog .header .close:hover
+{
+    /* set the hover image */
+    background:url(./img/close-hover.png) no-repeat;	
+}        
+
+/* dialog body styles */
+.dialog .body
+{
+	
+}
+.dialog .body .outer
+{
+    background:url(./img/right.png) right repeat-y;
+    padding-right:7px;
+}
+.dialog .body .inner
+{
+    background:url(./img/left.png) left repeat-y;
+    padding-left:7px;
+}
+.dialog .body .content
+{
+}  
+.dialog .body .content H2
+{
+    padding:10px;
+    margin:0px;
+    text-align:center;
+    font-size:11pt;
+    color:#222222;            
+    font-weight:normal;
+}           
+.dialog .body .content .footer
+{
+    /* footer image is 41 pixels tall */    
+    background:url(./img/footer.gif) repeat-x bottom;
+    height:41px;
+}
+             
+
+/* dialog footer styles */
+.dialog .footer
+{
+}
+.dialog .footer .outer
+{
+    background:url(./img/bottom-right.png) right top no-repeat;
+    padding-right:9px;
+}
+.dialog .footer .inner
+{
+    background:url(./img/bottom-left.png) left top no-repeat;
+    padding-left:9px;
+}
+.dialog .footer .content
+{
+    height:7px;
+    background:url(./img/bottom-mid.png) repeat-x;        
+}   
+        
+.updating
+{
+    color:#808080;
+    background:url(./img/activity.gif) no-repeat center;
+}  
+.pager
+{
+    height:30px;
+    background:url(./img/pager_bg.gif) repeat-x;
+}
+.pager a
+{
+	font-size:12px;
+	text-decoration:none;
+	color:#000;
+	font-weight:bold;
+	}
+
+
+

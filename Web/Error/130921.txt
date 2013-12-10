@@ -1,0 +1,49 @@
+
+Log Entry : 
+09/21/2013 00:00:54
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleImport.aspx】
+Error Message【文件“/Web/VehicleUI/Base/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 00:01:25
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 00:01:29
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_glass_75_dadada_1x400.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 00:12:10
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 00:51:18
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Employee/EmployeeMgr.aspx】
+Error Message【'OrganID' 附近有语法错误。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 00:55:48
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/21/2013 02:52:30
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/LoadUser.aspx】
+Error Message【文件“/Web/SystemUI/Login.aspx”不存在。】
+________________________________________________________

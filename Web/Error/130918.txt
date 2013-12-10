@@ -1,0 +1,63 @@
+
+Log Entry : 
+09/18/2013 00:17:25
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/Ashx/ValidateFrameNO.ashx】
+Error Message【文件“/Web/Ashx/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:32:46
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/Ashx/AutoComplete.ashx】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:33:13
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:33:52
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/ashx/autocomplete.ashx?term=a】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:35:03
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/Ashx/AutoComplete.ashx】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:40:02
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 00:40:50
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_glass_75_dadada_1x400.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 01:22:22
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/18/2013 01:43:30
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________

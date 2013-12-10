@@ -1,0 +1,25 @@
+﻿script type="text/javascript">
+    $(document).ready(function() {
+    
+    $("button").click(function() {
+        $.get("ashx/validate.ashx",{FrameNO:'F0021'}, function(data, status) {
+            alert("数据：" + data + "\n状态：" + status);
+        });
+    });
+})
+
+
+
+
+                //车牌号自动下拉
+                $("#txt_VehicleID").autocomplete({
+                  source: "../../ashx/autocomplete.ashx",
+                  minLength: 1,
+                  selectFirst: true,
+                  scroll: true,
+                  scrollHeight: 300,
+                  select: function(e, ui) {
+                      //alert(ui.item.value);
+                      $("#txt_FrameNO").val(ui.item.value);
+                  }
+              });

@@ -1,0 +1,234 @@
+
+Log Entry : 
+10/11/2013 13:59:25
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/UserAMV.aspx】
+Error Message【文件“/Web/SystemUI/UserUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 13:59:37
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/Login.aspx】
+Error Message【无法打开登录所请求的数据库 "DB_Review"。登录失败。
+用户 'sa' 登录失败。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 14:16:34
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/UserAMV.aspx】
+Error Message【文件“/Web/SystemUI/UserUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 14:16:38
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/UserAMV.aspx】
+Error Message【文件“/Web/SystemUI/UserUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 14:34:24
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/PositionMgr.aspx】
+Error Message【索引超出范围。必须为非负值并小于集合大小。
+参数名: index】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 14:44:22
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/PositionMgr.aspx】
+Error Message【索引超出范围。必须为非负值并小于集合大小。
+参数名: index】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 15:30:25
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/UserUI/UserAMV.aspx】
+Error Message【为过程或函数 Proc_AddUser 指定了过多的参数。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 16:03:43
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 16:03:44
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 16:03:56
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 16:03:57
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 16:03:57
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:27:49
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:27:50
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:26
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:27
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:28
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertMgr.aspx】
+Error Message【文件“/Web/AlertUI/AlertMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:29
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/AlertIndex.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:51
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:51
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:28:52
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:29:08
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:29:11
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertMgr.aspx】
+Error Message【文件“/Web/AlertUI/AlertMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:29:12
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/AlertIndex.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:29:13
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:29:13
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:48
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:49
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:51
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertMgr.aspx】
+Error Message【文件“/Web/AlertUI/AlertMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:52
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/AlertIndex.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:52
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/AlertIndex.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:30:54
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/11/2013 17:52:21
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/OrganUI/OrganMgr.aspx】
+Error Message【文件“/Web/SystemUI/OrganUI/Login.aspx”不存在。】
+________________________________________________________

@@ -1,0 +1,71 @@
+
+Log Entry : 
+09/22/2013 01:47:33
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/LoadUser.aspx】
+Error Message【文件“/Web/SystemUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 11:01:33
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/SystemUI/LoadUser.aspx】
+Error Message【文件“/Web/SystemUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 11:04:20
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 11:12:52
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleAMV.aspx?FrameNO=12&Type=View】
+Error Message【“ddl_KeepPerson”有一个无效 SelectedValue，因为它不在项目列表中。
+参数名: value】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:55:35
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【找到多个具有相同 ID“Label1”的控件。FindControl 要求控件具有唯一的 ID。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:55:45
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【找到多个具有相同 ID“Label1”的控件。FindControl 要求控件具有唯一的 ID。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:55:49
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【找到多个具有相同 ID“Label1”的控件。FindControl 要求控件具有唯一的 ID。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:56:39
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【找到多个具有相同 ID“Label1”的控件。FindControl 要求控件具有唯一的 ID。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:59:07
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/22/2013 14:59:10
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_glass_75_dadada_1x400.png】
+Error Message【文件不存在。】
+________________________________________________________

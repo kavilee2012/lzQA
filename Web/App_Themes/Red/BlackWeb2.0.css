@@ -1,0 +1,199 @@
+/* 
+Create by FreezeSoul
+Blog:http://hi.baidu.com/freezesoul
+Time:2008-06-26
+ */
+/* table level rules */
+.grid
+{
+
+	font-size: 12px;
+	border: solid 1px #7f7f7f;
+    border-collapse:collapse;	
+    color: #333333;
+    width:100%
+}
+
+
+/* header column rules */
+.grid th 
+{
+    background: url(./img/sprite.png) repeat-x 0px 0px;
+    border-color: #989898 #cbcbcb #989898 #989898;
+    border-style: solid solid solid none;
+    border-width: 1px 1px 1px medium;
+    color: #000;
+    padding: 4px 5px 4px 10px;
+    vertical-align: bottom;
+    text-align:left;
+}  
+
+.grid th a
+{
+	color:#333333;
+    font-weight: bold;
+	text-decoration: none;
+	display: block;
+    padding-right: 10px;
+}
+
+/* data cell and data row rules */
+.grid td 
+{
+	color:#333333;
+    padding: 4px 10px 4px 10px;
+    border-bottom: solid 1px #BBD9EE;
+}
+/* reset footer link*/
+.grid .pager td 
+{
+	
+    padding: 4px 4px 4px 4px;
+    border:0px;
+}
+.grid .altrow
+{
+    background-color: #EBF4FA;
+} 
+
+.grid .row
+{
+    background-color: #fff;
+}  
+
+.grid .rownum
+{
+    text-align:center;
+    padding-left:0px;
+    font-weight:bold;
+    color:#333333;
+}
+
+
+.dialog
+{
+    font-size:14px;
+    color:#222222;
+    background-color:#fff;
+}    
+
+/* header styles */
+.dialog .header
+{
+    position:relative;
+    color:#fff;        
+    cursor:move; /* So the user knows they can drag the panel */
+}
+.dialog .header .outer
+{
+    background:url(./img/top-right.png) right no-repeat;
+    padding-right:40px;
+}
+.dialog .header .inner
+{
+    background:url(./img/top-left.png) left no-repeat;
+    padding-left:9px;
+}
+.dialog .header .content
+{
+    height:35px;
+    background:url(./img/top-mid.png) repeat-x;
+}
+.dialog .header .content H2
+{
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    padding-top:6px;
+    margin:0;
+}
+.dialog .header .close
+{
+    /* the image is 35x35 pixels wide */
+    height:25px;
+    width:35px;	
+    /* position the image */
+    position:absolute;	
+    top:4px;
+    right:7px;	
+    background:url(./img/close.png) no-repeat;	
+    cursor:pointer;
+}
+.dialog .header .close:hover
+{
+    /* set the hover image */
+    background:url(./img/close-hover.png) no-repeat;	
+}        
+
+/* dialog body styles */
+.dialog .body
+{
+	
+}
+.dialog .body .outer
+{
+    background:url(./img/right.png) right repeat-y;
+    padding-right:7px;
+}
+.dialog .body .inner
+{
+    background:url(./img/left.png) left repeat-y;
+    padding-left:7px;
+}
+.dialog .body .content
+{
+}  
+.dialog .body .content H2
+{
+    padding:10px;
+    margin:0px;
+    text-align:center;
+    font-size:11pt;
+    color:#222222;            
+    font-weight:normal;
+}           
+.dialog .body .content .footer
+{
+    /* footer image is 41 pixels tall */    
+    background:url(./img/footer.gif) repeat-x bottom;
+    height:41px;
+}
+             
+
+/* dialog footer styles */
+.dialog .footer
+{
+}
+.dialog .footer .outer
+{
+    background:url(./img/bottom-right.png) right top no-repeat;
+    padding-right:9px;
+}
+.dialog .footer .inner
+{
+    background:url(./img/bottom-left.png) left top no-repeat;
+    padding-left:9px;
+}
+.dialog .footer .content
+{
+    height:7px;
+    background:url(./img/bottom-mid.png) repeat-x;        
+}   
+        
+.updating
+{
+    color:#808080;
+    background:url(./img/activity.gif) no-repeat center;
+}  
+.pager
+{
+    height:30px;
+    background:url(./img/pager_bg.gif) repeat-x;
+}
+.pager a
+{
+	font-size:12px;
+	text-decoration:none;
+	color:#000;
+	font-weight:bold;
+	}

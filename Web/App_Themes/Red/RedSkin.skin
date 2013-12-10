@@ -1,0 +1,105 @@
+﻿<%--
+默认的外观模板。以下外观仅作为示例提供。
+
+1. 命名的控件外观。SkinId 的定义应唯一，因为在同一主题中不允许一个控件类型有重复的 SkinId。
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. 默认外观。未定义 SkinId。在同一主题中每个控件类型只允许有一个默认的控件外观。
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+
+
+<asp:Button runat="server" BorderColor="yellow" BackColor="black" Width="50" BorderStyle="dotted"/>
+<asp:Button runat="server" BorderColor="blue" BackColor="white" Width="150" SkinID="Blue"/>
+<asp:Button runat="server" BorderColor="red" BackColor="red" Width="200" BorderWidth="2px" SkinID="Red"/> CssClass="aspGridView_HeaderStyle" 
+--%>
+
+<asp:GridView runat="server" CellPadding="0" CellSpacing="0" CssClass="grid" GridLines="none" Width="100%">
+    <AlternatingRowStyle CssClass="altrow"/>
+    <EditRowStyle CssClass="aspGridView_EditRowStyle"/>
+    <FooterStyle CssClass="aspGridView_FooterStyle" HorizontalAlign="Center"/>
+    <HeaderStyle HorizontalAlign="Center" />
+    <PagerSettings Position="Bottom"/>
+    <PagerStyle CssClass="pager" HorizontalAlign="right" />
+    <RowStyle CssClass="row" HorizontalAlign="Center"/>
+    <SelectedRowStyle CssClass="aspGridView_SelectedRowStyle"/>
+    <EmptyDataTemplate>暂无数据！</EmptyDataTemplate>
+</asp:GridView>
+
+<asp:GridView runat="server" SkinId="简单浅蓝" CssClass="GridFrame"  CellPadding="0" CellSpacing="0" AutoGenerateColumns="true">
+<RowStyle CssClass="GridItem" />
+<EditRowStyle CssClass="GridEdit" />
+<SelectedRowStyle CssClass="GridHeader" />
+<PagerStyle CssClass="GridItem" />
+<HeaderStyle CssClass="GridHeader" />
+<FooterStyle CssClass="GridFooter" />
+<AlternatingRowStyle CssClass="GridAlter" />
+</asp:GridView>
+
+<asp:DropDownList runat="server" Height="22px" Width="100px"> </asp:DropDownList>
+
+  <asp:GridView Skinid="简单暗蓝" width="100%" BackColor="White" BorderColor="#CCCCCC" BorderStyle="None" BorderWidth="1px" CellPadding="3" runat="server">
+    <FooterStyle ForeColor="#000066" />
+    <RowStyle BackColor="#f5f5f5" ForeColor="#000066" Height="20" />
+    <SelectedRowStyle BackColor="#669999" Font-Bold="True" ForeColor="White" />
+    <PagerStyle ForeColor="Red" Font-Underline="true" HorizontalAlign="Left" />
+    <HeaderStyle BackColor="#5a76a7" Font-Bold="True" ForeColor="White" Height="20" HorizontalAlign="Center" />
+  </asp:GridView>
+  
+  <asp:DetailsView SkinID="简单暗蓝" runat="server" AllowPaging="True" 
+    BackColor="White" BorderColor="#EFE6F7" BorderStyle="None" BorderWidth="1px"
+    CellPadding="3" GridLines="Vertical" Height="400px"
+    Width="100%">
+    <CommandRowStyle HorizontalAlign="Center" />
+    <FooterStyle BackColor="#B2C3E1" ForeColor="White"/>
+    <RowStyle BackColor="#FFFFFF" ForeColor="Black" Font-Size="0.8em"/>
+    <PagerStyle BackColor="#EFE6F7" ForeColor="Black" HorizontalAlign="Center"/>
+    <HeaderStyle BackColor="#41519A" Font-Bold="True" ForeColor="White"/>
+    <EditRowStyle BackColor="#B2C3E1" Font-Bold="True" ForeColor="White"/>
+    <AlternatingRowStyle BackColor="#99ACDD"/>
+   </asp:DetailsView>
+
+
+
+        <asp:DetailsView runat="server" AutoGenerateRows="False" Height="300px" Width="100%" CellPadding="4" 
+            ForeColor="#333333" GridLines="None">
+            <CommandRowStyle Font-Bold="True"  HorizontalAlign="Center"/>
+            <RowStyle HorizontalAlign="Left" VerticalAlign="Middle" />
+            <FieldHeaderStyle Width="150px" Font-Bold="True" HorizontalAlign="Right" VerticalAlign="Middle" />
+            <PagerStyle BackColor="#222222" ForeColor="White" HorizontalAlign="Center" />
+            <HeaderStyle Font-Bold="True" ForeColor="White" />
+            <EditRowStyle />
+        </asp:DetailsView>
+
+
+<asp:Calendar runat="server" SkinID="CalendarView" BackColor="White" BorderColor="#EFE6F7"
+    CellPadding="4" DayNameFormat="Shortest" Font-Size="0.8em"
+    ForeColor="Black" Height="180px" Width="200px">
+    <SelectedDayStyle BackColor="#41519A" Font-Bold="True" ForeColor="White" Font-Size="0.8em"/>
+    <SelectorStyle BackColor="#41519A" Font-Size="0.8em"/>
+    <WeekendDayStyle BackColor="#99ACDD" Font-Size="0.8em"/>
+    <OtherMonthDayStyle ForeColor="#41519A" Font-Size="0.9em"/>
+    <TodayDayStyle BackColor="#B2C3E1" ForeColor="Black" Font-Size="0.8em"/>
+    <NextPrevStyle VerticalAlign="Bottom" Font-Bold="True" ForeColor="White" Font-Size="0.8em"/>
+    <DayHeaderStyle Font-Bold="True" Font-Size="0.8em" BackColor="#B2C3E1"/>
+    <TitleStyle BackColor="#41519A" BorderColor="Black" Font-Bold="True" ForeColor="White" Font-Size="0.9em"/>
+    <DayStyle Font-Size="0.8em" />
+</asp:Calendar>
+
+<asp:FormView SkinID="FormView" runat="server" BackColor="White" BorderColor="#EFE6F7"
+    BorderStyle="None" BorderWidth="1px" CellPadding="3" GridLines="Vertical">
+    <FooterStyle BackColor="#B2C3E1" ForeColor="White" Font-Size="0.9em"/>
+    <RowStyle BackColor="#99ACDD" ForeColor="Black" Font-Size="0.8em"/>
+    <PagerStyle BackColor="#EFE6F7" ForeColor="Black" HorizontalAlign="Center" Font-Size="0.9em"/>
+    <HeaderStyle BackColor="#41519A" Font-Bold="True" ForeColor="White" Font-Size="0.9em"/>
+    <EditRowStyle BackColor="#B2C3E1" Font-Bold="True" ForeColor="White" Font-Size="0.9em"/>
+</asp:FormView>
+
+    <asp:TextBox SkinID="mytext" BorderWidth="1px" BorderColor="#B6D1E4" runat="server"/>
+    
+    <asp:ImageButton SkinID ="ibtnAdd" runat="server" ImageUrl="~/Image/index/add.png"  />
+     <asp:ImageButton SkinID ="ibtnSub" runat="server" ImageUrl="~/Image/index/sub.png"  />
+      <asp:ImageButton SkinID ="ibtnImport" runat="server" ImageUrl="~/Image/index/Import2.png"  height="20px" width="20px" />

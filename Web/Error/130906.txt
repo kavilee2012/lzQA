@@ -1,0 +1,77 @@
+
+Log Entry : 
+09/06/2013 00:52:07
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Insurance/InsuranceAdd.aspx】
+Error Message【文件“/Web/VehicleUI/Insurance/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 00:52:58
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 00:53:00
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_glass_75_dadada_1x400.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 00:53:16
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 00:54:11
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:04:34
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:05:44
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:06:01
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:06:03
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_glass_75_dadada_1x400.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:06:23
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________
+
+Log Entry : 
+09/06/2013 01:06:54
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/CSS/images/ui-bg_flat_75_ffffff_40x100.png】
+Error Message【文件不存在。】
+________________________________________________________

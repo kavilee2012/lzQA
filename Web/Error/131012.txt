@@ -1,0 +1,14 @@
+
+Log Entry : 
+10/12/2013 17:42:42
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Base/VehicleMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Base/VehicleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+10/12/2013 17:42:42
+Ip【127.0.0.1】
+Error in【http://localhost:55517/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx】
+Error Message【文件“/Web/VehicleUI/Maintenance/MaintenanceMgr.aspx”不存在。】
+________________________________________________________

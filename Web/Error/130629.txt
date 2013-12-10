@@ -1,0 +1,78 @@
+
+Log Entry : 
+06/29/2013 15:42:49
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/RoleUI/RoleMgr.aspx】
+Error Message【在选定的数据源上未找到名为“InputTime”的字段或属性。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 15:57:08
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/RoleUI/RoleAMV.aspx】
+Error Message【过程或函数 'Proc_AddRole' 需要参数 '@isAdmin'，但未提供该参数。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 15:59:43
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/RoleUI/RoleAMV.aspx?Code=R_1002_2&Type=Edit】
+Error Message【关键字 'where' 附近有语法错误。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 16:24:38
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/ObjectUI/ObjectGroupMgr.aspx】
+Error Message【在选定的数据源上未找到名为“InputTime”的字段或属性。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 16:30:21
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/ObjectUI/RoleMgr.aspx】
+Error Message【文件“/Web/SystemUI/ObjectUI/RoleMgr.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 16:38:14
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/ObjectUI/ObjectGroupAMV.aspx?Code=G_1002_1&Type=View】
+Error Message【列名 'Code' 无效。
+必须指定要从中选择的表。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 17:27:57
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/UserUI/User2Position.aspx?code=U_1002_1&Type=View】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 17:29:43
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/UserUI/Position2ObjectGroup.aspx?code=P_1002_1&Type=View】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 23:34:24
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/UserUI/PositionMgr.aspx】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 23:34:37
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/UserUI/PositionMgr.aspx】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________
+
+Log Entry : 
+06/29/2013 23:40:17
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/SystemUI/UserUI/PositionMgr.aspx】
+Error Message【未将对象引用设置到对象的实例。】
+________________________________________________________

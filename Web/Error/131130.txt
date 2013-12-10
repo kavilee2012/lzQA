@@ -1,0 +1,14 @@
+
+Log Entry : 
+11/30/2013 15:25:34
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/Login.aspx”不存在。】
+________________________________________________________
+
+Log Entry : 
+11/30/2013 15:25:45
+Ip【127.0.0.1】
+Error in【http://localhost:25519/Web/AlertUI/AlertIndex.aspx】
+Error Message【文件“/Web/AlertUI/Login.aspx”不存在。】
+________________________________________________________
